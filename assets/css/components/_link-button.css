@@ -10,7 +10,7 @@ a.link-button .icon{
   height: 32px;
   padding: 3px;
   background-color: var(--primary-color);
-  border: solid 1px white;
+  border: solid 1px rgb(255, 255, 255);
   background-clip: content-box;
   border-radius: 50%;
   position: relative;
